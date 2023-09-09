@@ -1,7 +1,7 @@
 # hello-world
 
 ## Bem vindo(a) ao meu perfil
-  -  Parabéns para você que conseguiu chegar até aqui :D
+  -  Parabéns para você que conseguiu chegar até aqui 😄
   -  Me chamo Lucas, criei esse repósitorio, para salvar meus
     estudos, espero que consiga produzir coisas fascinantes e que ajudem alguém de alguma forma !!!!
 
